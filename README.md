@@ -11,12 +11,12 @@ Sublime Text syntax highlighting for HL7 content.
 
 Sublime Text 2:
 
-    git clone https://github.com/cjohnson496/sublime-hl7-syntax.git \
+    git clone https://github.com/cjohnson496/HL7-Syntax-Highlighting \
     ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/sublime-hl7-syntax
 
 Sublime Text 3:
 
-    git clone https://github.com/cjohnson496/sublime-hl7-syntax.git \
+    git clone https://github.com/cjohnson496/HL7-Syntax-Highlighting \
     ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/sublime-hl7-syntax
 
 ## Package Control
@@ -25,7 +25,7 @@ First, install the Package Control plugin, instructions here: http://wbond.net/s
 
 Once you install Package Control, restart Sublime Text and bring up the Command Palette (<kbd>command+shift+p</kbd> on OS X, <kbd>super+shift+p</kbd> on Linux/Windows).
 
-Select "Package Control: Install Package", wait while Package Control fetches the latest package list, then select "HL7" when the list appears.
+Select "Package Control: Install Package", wait while Package Control fetches the latest package list, then select "HL7 Redux" when the list appears.
 
 # Usage
 

@@ -1,5 +1,5 @@
 ---
-title: Credits
+Credits
 ---
 
 To those who came before...

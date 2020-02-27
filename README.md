@@ -1,9 +1,26 @@
 sublime-hl7-syntax
 ==================
 
-Sublime Text syntax highlighting for HL7 content.
+Sublime Text Versions 2 & 3 syntax highlighting for HL7 content.
 
 ![hl7.png](hl7.png)
+
+Most commonly used HL7 message types include: 
+* ACK – General acknowledgement
+* ADT – Admit, Discharge, Transfer
+* BAR – Add/change billing account
+* DFT – Detailed financial transaction
+* MDM – Medical document management
+* MFN – Master files notification
+* ORM – Order (Pharmacy/treatment)
+* ORU – Observation result (unsolicited)
+* QRY – Query, original mode
+* RAS – Pharmacy/treatment administration
+* RDE – Pharmacy/treatment encoded order
+* RGV – Pharmacy/treatment give
+* SIU – Scheduling information unsolicited
+
+Corepoint link below.
 
 # Installation
 
@@ -37,7 +54,6 @@ File types ending in `.edi` or `.hl7` should automatically have syntax highlight
 # Info
 
 ### Sublime Text
-
 - http://www.sublimetext.com
 
 ## HL7 

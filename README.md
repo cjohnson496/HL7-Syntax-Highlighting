@@ -28,17 +28,17 @@ Corepoint link below.
 
 Sublime Text 2:
 
-``
-    git clone https://github.com/cjohnson496/HL7-Syntax-Highlighting \
-    ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/sublime-hl7-syntax
-``
+```
+git clone https://github.com/cjohnson496/HL7-Syntax-Highlighting \
+~/Library/Application\ Support/Sublime\ Text\ 2/Packages/sublime-hl7-syntax
+```
 
 Sublime Text 3:
 
-``
-    git clone https://github.com/cjohnson496/HL7-Syntax-Highlighting \
-    ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/sublime-hl7-syntax
-``
+```
+git clone https://github.com/cjohnson496/HL7-Syntax-Highlighting \
+~/Library/Application\ Support/Sublime\ Text\ 3/Packages/sublime-hl7-syntax
+```
 
 #### Package Control
 

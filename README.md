@@ -51,6 +51,9 @@ File types ending in `.edi` or `.hl7` should automatically have syntax highlight
 - Windows: <kbd>super+shift+p</kbd>, then type <kbd>ss hl7</kbd>
 - OS X: <kbd>command+shift+p</kbd>, then type <kbd>ss hl7</kbd>
 
+#  Disclaimer
+> THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
+
 # Info / Reference
 
 ### Sublime Text
